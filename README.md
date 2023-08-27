@@ -1,4 +1,4 @@
-# IITG OLX
+# IITG_OLX
 
 ## Instructions : 
 
