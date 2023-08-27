@@ -24,3 +24,4 @@
 * Contributors : 
     - [Shohan Mandal](https://github.com/shohan2001)
     - [Akshaj Padmakar](https://github.com/https://github.com/Akshaj-Padmakar)
+    - [Nikhil Anand](https://github.com/https://github.com/dev-anand-nikhil)
